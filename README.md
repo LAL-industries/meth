@@ -3,7 +3,7 @@ not specified name taken when watching  breaking bad
 
 hallo , this is meth readme.md , and why this is here idk i am free now thats why writing it manually ehehe
 
-what does this thing do 
+# what does this thing do 
 
 you know preety hefty task to switch from browser and editor just pressing alt+tab all the way until until u get cocky or flabergasted 
 so this simplifies the thing making your fav editor and browser in one , and easy hehe 
